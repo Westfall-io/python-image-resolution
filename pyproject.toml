@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-image-resolution"
-version = "0.0.0"
+version = "0.0.1"
 description = "Sample container that does a simple image resolution check"
 authors = ["Christopher Cox"]
 license = "MIT"
@@ -61,7 +61,7 @@ patch_tags = [
 
 [project]
 name = "python-image-resolution"
-version = "0.0.0"
+version = "0.0.1"
 authors = [
   { name="Christopher Cox", email="chris.cox@westfall.io" },
 ]
