@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.0.2 (2024-11-12)
+
+### :bug:
+
+* :bug: Added requirements.txt ([`d70b49e`](https://github.com/Westfall-io/python-image-resolution/commit/d70b49edb756c5fd4f2b39f6695984b390493b26))
+
 ## v0.0.1 (2024-11-12)
 
 ## v0.0.0 (2024-11-12)
