@@ -16,6 +16,5 @@ RUN pip install -r requirements.txt
 
 WORKDIR /app
 COPY src src
-COPY input.txt .
 
 CMD ["python", "src/main.py"]
