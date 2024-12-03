@@ -7,9 +7,9 @@ start_time = time.time()
 
 def main():
     try:
-        pixel_pitch_micron = "{{ digitalforge('pixel_pitch') }}" #mm
-        focal_length = "{{ digitalforge('focal_length') }}" # cm
-        distance = "{{ digitalforge('semimajor_axis')}}" #km
+        pixel_pitch_micron = float("{{ digitalforge('pixel_pitch') }}") #mm
+        focal_length = float("{{ digitalforge('focal_length') }}") # cm
+        distance = float("{{ digitalforge('semimajor_axis')}}") #km
     except:
         # Defaults if this didn't work
         pixel_pitch_micron = 0.0055
