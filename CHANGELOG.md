@@ -1,8 +1,12 @@
 # CHANGELOG
 
+## v0.0.4 (2024-12-03)
+
 ## v0.0.3 (2024-12-03)
 
 ### :bug:
+
+* :bug: Fixed an issue where output could not be written to file due to type error ([`19939e8`](https://github.com/Westfall-io/python-image-resolution/commit/19939e84267b159957d088aed385baadb5d1cc7e))
 
 * :bug: Fixed an issue with using strings instead of floats for returned values ([`cb748b6`](https://github.com/Westfall-io/python-image-resolution/commit/cb748b68bfcc0348d4b025fb10e8eee1ae1cc7da))
 
