@@ -26,7 +26,7 @@ def main():
 
     print(gsd) #m
     with open('image_resolution_output.txt', 'w') as f:
-        f.write(gsd)
+        f.write(str(gsd))
 
 if __name__ == '__main__':
     main()
