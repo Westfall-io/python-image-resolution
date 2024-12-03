@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.0.3 (2024-12-03)
+
+### :bug:
+
+* :bug: Fixed an issue with using strings instead of floats for returned values ([`cb748b6`](https://github.com/Westfall-io/python-image-resolution/commit/cb748b68bfcc0348d4b025fb10e8eee1ae1cc7da))
+
 ## v0.0.2 (2024-11-12)
 
 ### :bug:
