@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.0.5 (2024-12-04)
+
+### :zap:
+
+* :zap: Adding more :memo: ([`5c08f23`](https://github.com/Westfall-io/python-image-resolution/commit/5c08f23e052479808b12ebbaee0336c346dd32fc))
+
 ## v0.0.4 (2024-12-03)
 
 ## v0.0.3 (2024-12-03)
